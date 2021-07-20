@@ -8,7 +8,7 @@
 
 + Анализ времени поиска водителя
 
-## Поля данных таблиц (Views and Orders): 
+### Поля таблицы Views: 
 
 | Views | description | 
 | ------------- | ------------- |
@@ -22,6 +22,8 @@
 | longitude| долгота точки А |
 | del_latitude | широта точки Б  |
 | del_longitude | долгота точки Б |
+
+#### Поля таблицы Orders:
 
 
 | Orders | description |
