@@ -14,7 +14,7 @@
 | ------------- | ------------- |
 | idhash_view  | id просмотра цены  |
 | view_dttm | дата и время просмотра цены  |
-| tariff String | тариффф  |
+| tariff String | тариф |
 | idhash_order | id заказа  |
 | idhash_client| id клиента |
 | client_bill_usd | клиентский чек USD  |
@@ -23,7 +23,7 @@
 | del_latitude | широта точки Б  |
 | del_longitude | долгота точки Б |
 
-#### Поля таблицы Orders:
+### Поля таблицы Orders:
 
 
 | Orders | description |
