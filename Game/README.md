@@ -1,6 +1,6 @@
 # Анализ игровых матчей
 
-#### Поставленные задачи для [game_1](https://github.com/TanasevichPS/TS_ABD_2021/blob/main/Game/game.sql):
+### Поставленные задачи для [game_1](https://github.com/TanasevichPS/TS_ABD_2021/blob/main/Game/game.sql):
 
 + Посчитать количество матчей, в которых first_blood_time больше 1 минуты, но меньше 3х минут;
 
@@ -19,7 +19,7 @@
 
 + получить первые 20 строк из всех данных из таблиц с матчами и оплатами (purchase_log)
 
-#### Поставленные задачи для [game_2]():
+### Поставленные задачи для [game_2](https://github.com/TanasevichPS/TS_ABD_2021/blob/main/Game/other_game.sql):
 
 + Вывести в каких матчах выйграли силы Тьмы и какие игроки участвовали в этих матчах
 
