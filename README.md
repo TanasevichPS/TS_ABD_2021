@@ -10,5 +10,5 @@
 + [Анализ заказов такси](https://github.com/TanasevichPS/TS_ABD_2021/tree/main/Taxi)
 + [Проверка статистических гипотез](https://github.com/TanasevichPS/TS_ABD_2021/tree/main/Statistics)
 + [RFM_segmentation](https://github.com/TanasevichPS/TS_ABD_2021/tree/main/RFM_segmentation)
-+ [Game](https://github.com/TanasevichPS/TS_ABD_2021/tree/main/Game)
-+ [Avocado_Prices](https://github.com/TanasevichPS/TS_ABD_2021/tree/main/Avocado_Prices)
++ [Анализ игровых матчей](https://github.com/TanasevichPS/TS_ABD_2021/tree/main/Game)
++ [Анализ продаж авокадо](https://github.com/TanasevichPS/TS_ABD_2021/tree/main/Avocado_Prices)
